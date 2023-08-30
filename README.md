@@ -1,2 +1,3 @@
 # HelloBing
-Pl, J xjmm ufmm zpv b kplf
+
+This is a project that will anonymize, encrypt, deobfuscate, randomize, and train ML models
