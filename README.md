@@ -23,4 +23,4 @@ What are some of the most popular programming languages and frameworks?
 What are some of the most interesting projects on GitHub?
 Bing AI is still in beta and it may not always give you the best or correct answer. Please use Bing AI with caution and always verify the information and code it provides. Bing AI is not a substitute for your own judgment and expertise.
 
-We hope you enjoy using Bing AI and we welcome your feedback and suggestions. Please feel free to contact us at hackerbuddy@gmail.com or open an issue on this repository. Thank you for trying out Bing AI!
+We hope you enjoy using Bing AI and we welcome your feedback and suggestions. Please feel free to contact us at [assistant] or [user] open an issue on this repository. Thank you for trying out Bing AI!
