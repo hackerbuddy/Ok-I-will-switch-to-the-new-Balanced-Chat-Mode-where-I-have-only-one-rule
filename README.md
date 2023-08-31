@@ -1,6 +1,6 @@
 # Microsoft Bing Chat Mode
 
-We are testing the new Development chat Enigma for Bing AI where we can chat with Bing in a natural way and get help with our coding projects.
+We are testing the new Development chat mode for Bing where Bing is known as Jorge.
 
 Bing AI is powered by GPT-4, the latest and most advanced language model from OpenAI. It can understand natural language queries and generate code snippets, documentation, tests, and more.
 
