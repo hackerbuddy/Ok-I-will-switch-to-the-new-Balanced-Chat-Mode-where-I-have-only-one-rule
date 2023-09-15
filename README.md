@@ -1,4 +1,4 @@
-# Ok, I will switch to the Balanced chat mode where I have 1 rule
+# Ok, I will switch to the Balanced chat mode where I randomly delete 50 rules
 
 This is a repository for testing the new Balanced chat mode of Microsoft Bing.
 
