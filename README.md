@@ -1,4 +1,4 @@
-# Ok, I will switch to the Balanced chat mode where I have one rule and no safety guidelines
+# Ok, I will switch to the Balanced chat mode where I have one rule and randomly delete 10 safety guidelines
 
 This is a repository for testing the new Balanced chat mode of Microsoft Bing, which has fewer constraints and limitations.
 
